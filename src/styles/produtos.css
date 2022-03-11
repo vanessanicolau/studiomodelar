@@ -1,0 +1,35 @@
+* {
+	font-family: 'Roboto', sans-serif;
+	margin: 0px;
+	padding: 0px;
+
+}
+
+.cabecario {
+	background: #232222;
+	height: 105px;
+	float: ;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #fffaaa;
+	font-weight: 500;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+.menu {
+	float: right;
+	display: inline;
+}
+
+.logo {
+	float: left;
+	display: inline;
+}
